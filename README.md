@@ -1,5 +1,7 @@
 # RpcEngine
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kumavis/json-rpc-engine.svg)](https://greenkeeper.io/)
+
 a tool for processing JSON RPC
 
 ### usage
